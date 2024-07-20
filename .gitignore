@@ -1,0 +1,8 @@
+# Ignore Dockerfile
+Dockerfile
+
+# Ignore index.html
+index.html
+
+# Ignore api.php
+api.php
